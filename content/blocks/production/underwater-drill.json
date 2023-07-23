@@ -1,0 +1,17 @@
+type: Drill
+name: Underwater Drill
+description: "First drill which mines underwater. Mines ores with the hardness of 1"
+health: 100
+size: 2
+tier: 1
+buildCostMultiplier: 3
+drillTime: 120
+hasItems: true
+itemCapacity: 30
+requirements: [
+  copper/50
+  nickel/20
+]
+category: production
+hasColor: true
+mapColor: 6F80E8
