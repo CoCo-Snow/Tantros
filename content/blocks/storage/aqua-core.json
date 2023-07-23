@@ -1,0 +1,16 @@
+type: CoreBlock
+name: "Core: Aqua"
+description: "The base core of the Tantros planet."
+health: 2500
+itemCapacity: 8000
+size: 2
+unitCapModifier: 8
+unitType: alpha
+requirements: [
+  copper/2000
+  nickel/1000
+]
+category: effect
+hasItems: true
+hasColor: true
+mapColor: 6F80E8
