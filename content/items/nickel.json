@@ -1,0 +1,7 @@
+name: "Nickel",
+cost: 1,
+color: "D9D9D9",
+hardness: 1,
+flammability: 0,
+radioactivity: 0,
+explosiveness: 0,
