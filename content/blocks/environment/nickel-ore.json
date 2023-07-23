@@ -1,0 +1,4 @@
+type: OreBlock
+itemDrop: nickel
+oreDefault: true
+variants: 3

@@ -1,0 +1,4 @@
+type: StaticWall
+name: Bluemat Wall
+hasColor: true
+mapColor: 4D426A
