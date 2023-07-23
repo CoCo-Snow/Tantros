@@ -1,0 +1,13 @@
+type: Conveyor
+name: Underwater Conveyor
+description: 
+health: 40
+buildCostMultiplier: 0.0005
+requirements: [
+  copper/1
+]
+category: distribution
+speed: 0.05
+displayedSpeed: 7.4
+hasColor: true
+mapColor: 6F80E8
