@@ -1,0 +1,11 @@
+type: Duct
+name: Amethyst Duct
+health: 80
+buildCostMultiplier: 0.00000005
+requirements: [
+  steel/1
+]
+category: distribution
+speed: 4
+hasColor: true
+mapColor: A53EDA
