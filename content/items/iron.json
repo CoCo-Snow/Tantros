@@ -1,0 +1,7 @@
+name: "Iron",
+cost: 2,
+color: "D9D9D9",
+hardness: 2,
+flammability: 0,
+radioactivity: 0,
+explosiveness: 0,
