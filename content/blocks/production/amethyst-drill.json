@@ -1,0 +1,17 @@
+type: Drill
+name: Amethyst Drill
+description: "Second drill which mines underwater. Mines ores with the hardness of 2"
+health: 200
+size: 2
+tier: 2
+buildCostMultiplier: 3
+drillTime: 90
+hasItems: true
+itemCapacity: 50
+requirements: [
+  copper/200
+  nickel/150
+]
+category: production
+hasColor: true
+mapColor: A53EDA
