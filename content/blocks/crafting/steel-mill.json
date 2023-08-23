@@ -1,0 +1,30 @@
+type: GenericCrafter
+name: Steel Mill
+description: "Combines iron and nickel to produce steel"
+itemCapacity: 20
+health: 250
+size: 3
+hasPower: true
+hasItems: true
+craftTime: 30
+buildCostMultiplier: 0.8
+drawLiquidLight: true
+consumes: {
+  items: {
+    items: [
+      iron/6
+      nickel/2
+    ]
+  }
+}
+requirements: [
+  copper/200
+  nickel/200
+]
+category: crafting
+outputItem: steel/5
+craftEffect: smeltsmoke
+ambientSound: smelter
+ambientSoundVolume: 0.05
+hasColor: true
+mapColor: ffffff
