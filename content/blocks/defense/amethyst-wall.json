@@ -1,0 +1,9 @@
+name: "Amethyst Wall"
+description: The amethyst crystal in its mid increases the walls defense to protect you better from projectiles.
+type: wall
+health: 2000
+size: 1
+requirements: [
+  steel/6
+]
+category: defense

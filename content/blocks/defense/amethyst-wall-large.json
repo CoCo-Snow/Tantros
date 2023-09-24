@@ -1,0 +1,9 @@
+name: "Large Amethyst Wall"
+description: The amethyst crystal in its mid increases the walls defense to protect you better from projectiles.
+type: wall
+health: 4200
+size: 2
+requirements: [
+  steel/24
+]
+category: defense
