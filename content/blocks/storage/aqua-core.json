@@ -14,3 +14,9 @@ category: effect
 hasItems: true
 hasColor: true
 mapColor: 6F80E8
+research: {
+  root: true
+  name: "Tantros"
+  alwaysUnlocked: true
+  planet: tantros
+}
