@@ -1,9 +1,9 @@
 name: "tt-mcp"
 displayName: "Tantros"
-subtitle: "Release: 0.1.1"
+subtitle: "Release: 0.2.0"
 description: "A mod that adds the Tantros planet with custom map(s), blocks, items and (units). (VERY EARLY-ACCESS!!!)"
 author: "Yoru Kitsune\nCollaborators: XtarsAgency"
-version: "0.1.1"
+version: "0.2.0"
 minGameVersion: "145"
 repo: "Yoru-Kitsune/Tantros"
 hidden: false
