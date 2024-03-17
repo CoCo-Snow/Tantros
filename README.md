@@ -1,6 +1,6 @@
 # Tantros
 
-#### A mod by Yoru-Kitsune
+#### A mod by CoCo Snow
 
 ![icon](https://github.com/Yoru-Kitsune/Tantros/assets/108625654/1401e7a5-4fac-48e5-8795-d80bf93219cc)
 
